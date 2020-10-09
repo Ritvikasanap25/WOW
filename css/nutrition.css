@@ -1,0 +1,210 @@
+body
+{
+    text-align: center;
+    color:  rgb(87, 100, 112);
+    
+    font-style: italic;
+    
+    background-image: url(../img1/nut.jpeg);
+    background-position: center;
+    background-size: cover;
+    font-family: sans-serif;
+    margin-top: 40px;
+
+}
+form
+{
+
+width: 300px;
+font-style: italic;
+color:  rgb(87, 100, 112);
+padding:0;
+margin:0;
+text-align: left;
+
+}
+.nutriform
+{
+    width: 500px;
+    background-color: rgb(252, 179, 150);
+        margin:auto;
+    color:white;
+    padding: 10px 0px 10px 0px;
+    text-align: center;
+    border-radius: 15px 15px 0px 0px;
+}
+.mate
+{
+    background-color: rgb(252, 178, 149);
+    width: 500px;
+    margin: auto;
+}
+form
+{
+padding: 10px;
+}
+.mormeal{
+    
+        margin-left: 20px;
+        margin-top: 10px;
+        width: 50px;
+        color: rgb(87, 100, 112);
+        font-size: 18px;
+        font-weight: 200;
+        }
+    
+.mor{
+    position: relative;
+    left: 100px;
+    top: -35px;
+    width: 95px;
+    line-height: 30px;
+    border-radius: 6px;
+    padding: 0 22px;
+    font-size: 16px; 
+
+}
+.time
+{
+    margin-left: 250px;
+    margin-top: -70px;
+    width: 50px;
+    color: rgb(87, 100, 112);
+    font-size: 18px;
+    font-weight: 200;
+    
+}
+.timeslot{
+    position: relative;
+    left: 320px;
+    top: -55px;
+    width: 95px;
+    line-height: 30px;
+    border-radius: 6px;
+    padding: 0 22px;
+    font-size: 16px;
+    border-radius: 12px; 
+}
+.break{
+    
+    margin-left: 20px;
+    margin-top: 5px;
+    width: 50px;
+    color:rgb(87, 100, 112);
+    font-size: 18px;
+    font-weight: 200;
+    }
+
+.bre{
+position: relative;
+left: 100px;
+top: -50px;
+width: 95px;
+line-height: 30px;
+border-radius: 6px;
+padding: 0 22px;
+font-size: 16px; 
+
+}
+.lunch{
+    
+    margin-left: 20px;
+    margin-top: -5px;
+    width: 50px;
+    color: rgb(87, 100, 112);
+    font-size: 18px;
+    font-weight: 200;
+    }
+
+.lun{
+position: relative;
+left: 100px;
+top: -50px;
+width: 95px;
+line-height: 30px;
+border-radius: 6px;
+padding: 0 22px;
+font-size: 16px; 
+
+}
+.eve{
+    
+    margin-left: 20px;
+    margin-top: -25px;
+    width: 50px;
+    color:  rgb(87, 100, 112);
+    font-size: 18px;
+    font-weight: 200;
+    }
+
+.even{
+position: relative;
+left: 100px;
+top: -50px;
+width: 95px;
+line-height: 30px;
+border-radius: 6px;
+padding: 0 22px;
+font-size: 16px; 
+
+}
+.add{
+    
+    margin-left: 20px;
+    margin-top: -40px;
+    width: 50px;
+    color: rgb(87, 100, 112);
+    font-size: 18px;
+    font-weight: 200;
+    }
+
+.addon{
+position: relative;
+left: 100px;
+top: -50px;
+width: 95px;
+line-height: 30px;
+border-radius: 6px;
+padding: 0 22px;
+font-size: 16px; 
+
+}
+.dinner{
+    
+    margin-left: 20px;
+    margin-top: -10px;
+    width: 50px;
+    color: rgb(87, 100, 112);
+    font-size: 18px;
+    font-weight: 200;
+    }
+
+.din{
+position: relative;
+left: 100px;
+top: -50px;
+width: 95px;
+line-height: 30px;
+border-radius: 6px;
+padding: 0 22px;
+font-size: 16px; 
+
+}
+button
+{
+    margin-top: -200px;
+    background-color: #6d6466;
+    display: block;
+    margin: 10px 0px 0px 10px;
+    margin-left: 150px;
+    text-align: center;
+    border-radius: 12px;
+    border: 2px solid #366473;
+    padding: 10px 80px;
+    font-size: 24px;
+    font-style: oblique;
+    outline: none;
+    color: white;
+    cursor: pointer;
+    transition: 0.25px;
+}
